@@ -1,0 +1,177 @@
+{
+  "date": "30.09.2020",
+  "bank": "PB",
+  "baseCurrency": 980,
+  "baseCurrencyLit": "UAH",
+  "exchangeRate": [
+    {
+      "baseCurrency": "UAH",
+      "saleRateNB": 20.1927000,
+      "purchaseRateNB": 20.1927000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "AZN",
+      "saleRateNB": 16.6572000,
+      "purchaseRateNB": 16.6572000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "BYN",
+      "saleRateNB": 10.7846000,
+      "purchaseRateNB": 10.7846000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "CAD",
+      "saleRateNB": 21.1652000,
+      "purchaseRateNB": 21.1652000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "CHF",
+      "saleRateNB": 30.6846000,
+      "purchaseRateNB": 30.6846000,
+      "saleRate": 31.4000000,
+      "purchaseRate": 29.5000000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "CNY",
+      "saleRateNB": 4.1510000,
+      "purchaseRateNB": 4.1510000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "CZK",
+      "saleRateNB": 1.2211000,
+      "purchaseRateNB": 1.2211000,
+      "saleRate": 1.2400000,
+      "purchaseRate": 1.0300000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "DKK",
+      "saleRateNB": 4.4492000,
+      "purchaseRateNB": 4.4492000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "EUR",
+      "saleRateNB": 33.1309000,
+      "purchaseRateNB": 33.1309000,
+      "saleRate": 33.3500000,
+      "purchaseRate": 32.7000000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "GBP",
+      "saleRateNB": 36.4122000,
+      "purchaseRateNB": 36.4122000,
+      "saleRate": 36.9500000,
+      "purchaseRate": 34.9500000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "GEL",
+      "saleRateNB": 8.9644000,
+      "purchaseRateNB": 8.9644000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "HUF",
+      "saleRateNB": 0.0907070,
+      "purchaseRateNB": 0.0907070
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "ILS",
+      "saleRateNB": 8.1957000,
+      "purchaseRateNB": 8.1957000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "JPY",
+      "saleRateNB": 0.2679300,
+      "purchaseRateNB": 0.2679300
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "KZT",
+      "saleRateNB": 0.0657900,
+      "purchaseRateNB": 0.0657900
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "MDL",
+      "saleRateNB": 1.6708000,
+      "purchaseRateNB": 1.6708000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "NOK",
+      "saleRateNB": 2.9981000,
+      "purchaseRateNB": 2.9981000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "PLZ",
+      "saleRateNB": 7.3101000,
+      "purchaseRateNB": 7.3101000,
+      "saleRate": 7.5000000,
+      "purchaseRate": 7.0000000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "RUB",
+      "saleRateNB": 0.3595500,
+      "purchaseRateNB": 0.3595500,
+      "saleRate": 0.3780000,
+      "purchaseRate": 0.3490000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "SEK",
+      "saleRateNB": 3.1475000,
+      "purchaseRateNB": 3.1475000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "SGD",
+      "saleRateNB": 20.6758000,
+      "purchaseRateNB": 20.6758000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "TMT",
+      "saleRateNB": 7.8748000,
+      "purchaseRateNB": 7.8748000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "TRY",
+      "saleRateNB": 3.6168000,
+      "purchaseRateNB": 3.6168000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "UAH",
+      "saleRateNB": 1.0000000,
+      "purchaseRateNB": 1.0000000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "USD",
+      "saleRateNB": 28.2989000,
+      "purchaseRateNB": 28.2989000,
+      "saleRate": 28.4500000,
+      "purchaseRate": 28.0500000
+    },
+    {
+      "baseCurrency": "UAH",
+      "currency": "UZS",
+      "saleRateNB": 0.0026856,
+      "purchaseRateNB": 0.0026856
+    }
+  ]
+}
